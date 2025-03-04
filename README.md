@@ -2,7 +2,7 @@
 Responsive modern Portfolio website using HTML, CSS, and JavaScript
 
 ## Demo 
-View live demo [here →](https://github.com/Adityasingh66/my_portfolio/)
+View live demo [here →](https://github.com/Ajayykr01/My-Portfolio/)
 
 ![portfolio](img2.jpg)
 
